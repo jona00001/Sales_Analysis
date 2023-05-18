@@ -1,6 +1,6 @@
 # Sales_Analysis
 
-Using Python for data analyst 
+Using Python for data analyst to answer the following,
 
 Question 1: What was the best month for sales? How much was earned that month?
 Question 2: What city sold the most product?
